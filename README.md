@@ -2,20 +2,11 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=auto&text=404%20Not%20Found&section=header&textBg=false&fontSize=40&fontAlignY=30&animation=twinkling&stroke=234794&fontColor=66023C&strokeWidth=1&desc=Unknown%20Error&descAlignY=50" />
 
-<p align="right">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKSH7-7&count_bg=%2392A8D1&title_bg=%23F7CAC9&icon=github.svg&icon_color=%23212830&title=HIT&edge_flat=false"/>
-  </a>
-</p>
-
 ## Intro.
 
 ### Major : Physics
 
 ### Hobby : exercise, game, something online
-
-### 2024 Goal: Developing applications, Mastering the use of generative AI 👨‍💻
-
 
 <details>
 <summary>:computer: My Desktop Setup :computer:</summary>
@@ -28,43 +19,47 @@
 </tr>
 <tr>
 <td align="center">CPU</td>
-<td align="center">Intel Core i7-4790</td>
-<td align="center">
-<details>
-<summary>Soon</summary>
-<li>Ultra 7 265K</li>
-</details>
-</td>
+<td align="center">AMD 9700X</td>
+<td align="center">-</td>
 </tr>
 <tr>
 <td align="center">RAM</td>
-<td align="center">16GB DDR4</td>
+<td align="center">48GB DDR5</td>
 <td align="center">
 <details>
-<summary>Soon</summary>
-<li>64GB DDR5</li>
+<summary>Spec.</summary>
+<li>6000Mhz CL28 OC</li>
 </details>
 </td>
 </tr>
 <tr>
 <td align="center">GPU</td>
 <td align="center">AORUS RTX 2080</td>
-<td align="center">-</td>
+<td align="center"><details>
+<summary>Soon</summary>
+<li>RTX 5070Ti</li>
+</details>
+</td>
 </tr>
 <tr>
-<td align="center">SSD</td>
-<td align="center">120GB SATA SSD</td>
+<td align="center">Storage</td>
+<td align="center">2 + 4 + 2  TB</td>
 <td align="center">
 <details>
-<summary>Soon</summary>
-<li>2+2TB M.2 SSD</li>
+<summary>Spec.</summary>
+<li>2TB SSD + 6TB HDD</li>
 </details>
 </td>
 </tr>
 <tr>
 <td align="center">Monitor</td>
 <td align="center">Dell U2718Q</td>
-<td align="center">-</td>
+<td align="center">
+<details>
+<summary>Soon</summary>
+<li>Dell U3225QE</li>
+</details>
+</td>
 </tr>
 <tr>
 <td align="center">Keyboard</td>
@@ -76,7 +71,6 @@
 <li>Keycaps: FBB Good Night</li>
 <li>Switches: SWK Neon</li>
 <li>PCB: FR4</li>
-<li>Layout: ANSI, 65%</li>
 </ul>
 </details>
 </td>
